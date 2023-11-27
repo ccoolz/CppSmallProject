@@ -1,0 +1,15 @@
+﻿  theFightOfBalls.cpp
+D:\cppCode\C++BasicProject\theFightOfBalls\theFightOfBalls.cpp(40,23): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\cppCode\C++BasicProject\theFightOfBalls\theFightOfBalls.cpp(41,23): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\cppCode\C++BasicProject\theFightOfBalls\theFightOfBalls.cpp(48,20): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\cppCode\C++BasicProject\theFightOfBalls\theFightOfBalls.cpp(49,20): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\cppCode\C++BasicProject\theFightOfBalls\theFightOfBalls.cpp(69,48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\cppCode\C++BasicProject\theFightOfBalls\theFightOfBalls.cpp(69,36): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\cppCode\C++BasicProject\theFightOfBalls\theFightOfBalls.cpp(69,24): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\cppCode\C++BasicProject\theFightOfBalls\theFightOfBalls.cpp(75,40): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\cppCode\C++BasicProject\theFightOfBalls\theFightOfBalls.cpp(75,30): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\cppCode\C++BasicProject\theFightOfBalls\theFightOfBalls.cpp(75,20): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\cppCode\C++BasicProject\theFightOfBalls\theFightOfBalls.cpp(79,36): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\cppCode\C++BasicProject\theFightOfBalls\theFightOfBalls.cpp(79,21): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\cppCode\C++BasicProject\theFightOfBalls\theFightOfBalls.cpp(128,17): warning C4305: “参数”: 从“double”到“float”截断
+  theFightOfBalls.vcxproj -> D:\cppCode\C++BasicProject\theFightOfBalls\x64\Debug\theFightOfBalls.exe
